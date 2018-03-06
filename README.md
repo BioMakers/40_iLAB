@@ -61,28 +61,34 @@ Calum’s post-doc follows his PhD in optical engineering, in which he fabricate
 
 ## Arduino kits
 
-###Arduino starter kit
+### Arduino starter kit
+
 https://www.seeedstudio.com/ARDX-The-starter-kit-for-Arduino-p-1153.html (kit)
 https://cdn.instructables.com/ORIG/F3J/MTJN/FVW22MXN/F3JMTJNFVW22MXN.pdf (guide booklet that comes with each kit)
 http://www.seeedstudio.com/document/pdf/ARDX-02-WO-EG-SEEE-WEB.pdf
 
-###Pulse sensor
+### Pulse sensor
+
 https://www.coolcomponents.co.uk/en/pulse-sensor.html
 https://pulsesensor.com/pages/code-and-guide
 
-###Particle breakout
+### Particle breakout
+
 https://www.coolcomponents.co.uk/en/particle-sensor-breakout-max30105.html
 https://learn.sparkfun.com/tutorials/max30105-particle-and-pulse-ox-sensor-hookup-guide?_ga=1.97228895.1597862514.1479216075
 
-###Muscle sensor
+### Muscle sensor
+
 https://www.coolcomponents.co.uk/en/myoware-muscle-sensor-development-kit.html
 https://learn.sparkfun.com/tutorials/myoware-muscle-sensor-kit?_ga=2.39886562.1973069348.1503480036-1575493297.1484668914
 
-###Heart rate monitor
+### Heart rate monitor
+
 https://www.coolcomponents.co.uk/en/ad8232-single-lead-heart-rate-monitor.html
 https://learn.sparkfun.com/tutorials/ad8232-heart-rate-monitor-hookup-guide
 
-###EMG
+### EMG
+
 https://www.coolcomponents.co.uk/en/emg-detector.html
 http://wiki.seeed.cc/Grove-EMG_Detector/
 
@@ -99,7 +105,7 @@ An extra week was scheduled for the presentation day, which took place on 30th N
 Figure 1: Winners at the presentation day with their certificates and prizes.
 
 <p align="center">
-<img src="https://github.com/BioMakers/40_iLAB/blob/master/images/trophy.jpg" width="400">
+<img src="https://github.com/BioMakers/40_iLAB/blob/master/images/trophy.png" width="400">
 <p align="center">
 Figure 2: Trophy for the winning team (see .stl file in the code folder).
 
